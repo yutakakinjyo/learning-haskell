@@ -1,9 +1,20 @@
 learning-haskell
 ================
 
-emacs
+# env
+
+```
+$ brew install ghc
+$ brew install haskell-platform
+```
+
+# editor
+
+## emacs
 
 `M-x package-install`
+
+continue command line
 
 `haskell-mode`
 
