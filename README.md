@@ -37,3 +37,4 @@ continue command line
 ```
 ## reference
 http://www.haskell.org/haskellwiki/10%E5%88%86%E3%81%A7%E5%AD%A6%E3%81%B6Haskell
+http://www.geocities.jp/m_hiroi/func/haskell03.html
