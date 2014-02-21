@@ -3,6 +3,8 @@ learning-haskell
 
 ## env
 
+Mac OSX
+
 ```
 $ brew install ghc
 $ brew install haskell-platform
