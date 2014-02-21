@@ -1,0 +1,1 @@
+main = do {str <- getLine ; putStrLn str}
