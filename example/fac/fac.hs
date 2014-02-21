@@ -3,5 +3,5 @@ fac n = n * fac(n-1)
 
 main = print (fac 42)
 
-# same mean
-# fac n = if n == 0 then 1 else n * (n-1)
+-- same mean
+-- fac n = if n == 0 then 1 else n * (n-1)
