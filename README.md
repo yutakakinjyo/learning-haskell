@@ -1,16 +1,16 @@
 learning-haskell
 ================
 
-# env
+## env
 
 ```
 $ brew install ghc
 $ brew install haskell-platform
 ```
 
-# editor
+## editor
 
-## emacs
+### emacs
 
 `M-x package-install`
 
@@ -33,3 +33,5 @@ continue command line
 (add-to-list 'auto-mode-alist '("\\.lhs$" . literate-haskell-mode))
 (add-to-list 'auto-mode-alist '("\\.cabal\\'" . haskell-cabal-mode))
 ```
+## reference
+http://www.haskell.org/haskellwiki/10%E5%88%86%E3%81%A7%E5%AD%A6%E3%81%B6Haskell
