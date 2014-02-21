@@ -5,5 +5,3 @@ myabs n
     | otherwise = 0
 
 main = print (myabs (-2))
-
--- main = print (show (myabs (-2)))
