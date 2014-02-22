@@ -14,7 +14,8 @@ $ brew install haskell-platform
 
 ### emacs
 
-`brew install emacs`
+`$brew install emacs`
+
 `M-x package-install`
 
 continue command line
