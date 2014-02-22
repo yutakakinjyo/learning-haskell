@@ -5,6 +5,8 @@ learning-haskell
 
 Mac OSX
 
+### haskell
+
 ```
 $ brew install ghc
 $ brew install haskell-platform
@@ -14,7 +16,18 @@ $ brew install haskell-platform
 
 ### emacs
 
+#### install emacs
+
 `$ brew install emacs`
+
+#### emacs config
+
+.emacs
+```
+(add-to-list 'package-archives '("melpa" . "http://melpa.milkbox.net/packages/"))
+                                                                 
+(package-initialize)
+```
 
 `M-x package-install`
 
@@ -40,3 +53,4 @@ continue command line
 ## reference
 http://www.haskell.org/haskellwiki/10%E5%88%86%E3%81%A7%E5%AD%A6%E3%81%B6Haskell
 http://www.geocities.jp/m_hiroi/func/haskell03.html
+http://emacs-jp.github.io/packages/package-management/package-el.html
